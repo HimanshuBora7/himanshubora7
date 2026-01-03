@@ -51,7 +51,7 @@ public class Developer {
 
 📫 Connect with me:
 
-<p align="left"> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/himanshu-bora-798282380" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 <a href="mailto:himanshu.bora2505@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /> </a> </p>
 
